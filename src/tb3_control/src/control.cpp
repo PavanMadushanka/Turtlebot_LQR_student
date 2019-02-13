@@ -1,6 +1,7 @@
 /*
 Used for teaching controller design for Turtlebot3
-Lantao Liu
+Pavan Saranguhewa
+Course Instructor : Lantao Liu
 ISE, Indiana University
 */
 
